@@ -8,4 +8,4 @@ only:
   - master
 script: npm test
 notifications:
-  slack: vulgardisplayofpower:RQzt5qlhpuN4caO9OavVbmoi
+  slack: flo-chat:wZ7GetVa0E49b2eixG6lr3NE
