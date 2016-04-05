@@ -9,3 +9,4 @@ only:
 script: npm test
 notifications:
   slack: flo-chat:wZ7GetVa0E49b2eixG6lr3NE
+  email: false
